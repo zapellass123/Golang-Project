@@ -46,5 +46,6 @@ Feel free to upload your files to this repositories :)
 - [Ansori](https://github.com/Ansorimarwan2]
 - [Muntasir](https://github.com/Mmuntasir512)
 - [Mihar](https://github.com/Miharmuhsin)
+- [Aritra](https://github.com/ari0211)
 - [Mustofa](https://github.com/Mustofamuslih6)
 - [Tompest](https://github.com/tompest)
