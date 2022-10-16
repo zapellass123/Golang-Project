@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [DennieGeorgy](https://github.com/DennieGeorgy)
 - [ClariceGilmour](https://github.com/ClariceGilmour)
 - [TeraDimitris](https://github.com/TeraDimitris)
 - [CyndieGilbertson](https://github.com/CyndieGilbertson)
