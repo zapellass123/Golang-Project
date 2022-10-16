@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [RoselineHaymes](https://github.com/RoselineHaymes)
 - [EugineShuler](https://github.com/EugineShuler)
 - [DennieGeorgy](https://github.com/DennieGeorgy)
 - [ClariceGilmour](https://github.com/ClariceGilmour)
