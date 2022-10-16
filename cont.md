@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [KerrinFitzsimmons](https://github.com/KerrinFitzsimmons)
 - [NarikoGeffner](https://github.com/NarikoGeffner)
 - [FloStanding](https://github.com/FloStanding)
 - [KaraLynnIaverne](https://github.com/KaraLynnIaverne)
